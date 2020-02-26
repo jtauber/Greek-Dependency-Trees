@@ -393,7 +393,7 @@
       <word id="65" form="δευτέρᾳ" lemma="δεύτερος" postag="a-s---fd-" relation="ADV" head="63"/>
       <word id="66" form="τῶν" lemma="ὁ" postag="l-p---ng-" relation="ATR" head="67"/>
       <word id="67" form="Λυδιακῶν" lemma="Λυδιακά" postag="n-p---ng-" relation="ATR" head="65"/>
-      <word id="68" form="Ἀδραμύτην" lemma="̓Αδραμύτης" postag="n-s---ma-" relation="SBJ" head="76"/>
+      <word id="68" form="Ἀδραμύτην" lemma="Ἀδραμύτης" postag="n-s---ma-" relation="SBJ" head="76"/>
       <word id="69" form="φησὶ" lemma="φημί" postag="v3spia---" relation="PRED" head="0"/>
       <word id="70" form="τὸν" lemma="ὁ" postag="l-s---ma-" relation="ATR" head="68"/>
       <word id="71" form="Λυδῶν" lemma="Λυδός" postag="n-p---mg-" relation="ATR" head="72"/>

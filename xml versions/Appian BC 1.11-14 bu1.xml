@@ -2392,7 +2392,7 @@
       <word id="5" form="Σύλλας" lemma="Σύλλας" postag="n-s---mn-" relation="SBJ" head="18"/>
       <word id="6" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
       <word id="7" form="καίπερ" lemma="καίπερ" postag="d--------" relation="AuxZ" head="8"/>
-      <word id="8" form=" ὤν" lemma="εἰμί" postag="v-sppamn-" relation="ADV" head="18"/>
+      <word id="8" form="ὤν" lemma="εἰμί" postag="v-sppamn-" relation="ADV" head="18"/>
       <word id="9" form="δικτάτωρ" lemma="δικτάτωρ" postag="n-s---mn-" relation="PNOM" head="8"/>
       <word id="10" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
       <word id="11" form="ἐς" lemma="εἰς" postag="r--------" relation="AuxP" head="22"/>

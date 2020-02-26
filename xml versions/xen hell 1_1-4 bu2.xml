@@ -2012,7 +2012,7 @@
    </sentence>
    <sentence id="80"
              document_id="urn:cts:greekLit:tlg0032.tlg001.perseus-grc1"
-             subdoc="1.1.37 "
+             subdoc="1.1.37"
              span="">
       <word id="1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="4"/>
       <word id="2" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" head="3"/>

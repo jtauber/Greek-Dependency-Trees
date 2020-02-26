@@ -519,7 +519,7 @@
    </sentence>
    <sentence id="17"
              document_id="urn:cts:greekLit:tlg0016.tlg001.perseus-grc1"
-             subdoc="1.82,3"
+             subdoc="1.82.3"
              span="">
       <word id="1" form="βοηθησάντων" lemma="βοηθέω" postag="v-papamg-" relation="ADV" head="9"/>
       <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="9"/>

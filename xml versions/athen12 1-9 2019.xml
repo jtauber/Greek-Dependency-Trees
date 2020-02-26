@@ -27,7 +27,7 @@
              document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1"
              subdoc="12.1"
              span="Ἀνθρωπος0::0">
-      <word id="1" form="Ἀνθρωπος" lemma="̓́Ανθρωπος" postag="n-s---mn-" relation="PNOM" head="2"/>
+      <word id="1" form="Ἄνθρωπος" lemma="Ἄνθρωπος" postag="n-s---mn-" relation="PNOM" head="2"/>
       <word id="2" form="εἶναί" lemma="εἰμί" postag="v--pna---" relation="OBJ" head="5"/>
       <word id="3" form="μοι" lemma="ἐγώ" postag="p1s---md-" relation="OBJ" head="5"/>
       <word id="4" form="Κυρηναῖος" lemma="Κυρηναῖος" postag="a-s---mn-" relation="ATR" head="1"/>
@@ -654,7 +654,7 @@
       <word id="13" form="ἔτυχεν" lemma="τυγχάνω" postag="v3saia---" relation="ADV" head="12"/>
       <word id="14" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
       <word id="15" form="τὸν" lemma="ὁ" postag="l-s---ma-" relation="SBJ_CO" head="9"/>
-      <word id="16" form="Ἀνάνιος" lemma="̓Ανάνις" postag="n-s---mg-" relation="ATR" head="15"/>
+      <word id="16" form="Ἀνάνιος" lemma="Ἀνάνις" postag="n-s---mg-" relation="ATR" head="15"/>
       <word id="17" form="οὕτως" lemma="οὕτως" postag="d--------" relation="ADV" head="18"/>
       <word id="18" form="ἀοράτου" lemma="ἀόρατος" postag="a-s---mg-" relation="PNOM" head="21"/>
       <word id="19" form="κατὰ" lemma="κατά" postag="r--------" relation="AuxP" head="18"/>

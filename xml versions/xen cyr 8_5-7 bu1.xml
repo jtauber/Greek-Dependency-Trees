@@ -4217,7 +4217,7 @@
    </sentence>
    <sentence id="161"
              document_id="urn:cts:greekLit:tlg0032.tlg007.perseus-grc2"
-             subdoc="8.7."
+             subdoc="8.7.6"
              span="">
       <word id="1" form="σὺν" lemma="σύν" postag="r--------" relation="AuxP" head="9"/>
       <word id="2" form="τῷ" lemma="ὁ" postag="l-s---md-" relation="ATR" head="3"/>

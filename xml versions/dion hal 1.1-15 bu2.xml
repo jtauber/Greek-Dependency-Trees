@@ -2630,7 +2630,7 @@
       <word id="27" form="αἰτιῶν" lemma="αἰτία" postag="n-p---fg-" relation="ADV" head="25"/>
       <word id="28" form="ἐγένοντο" lemma="γίγνομαι" postag="v3paim---" relation="ADV_CO" head="29"/>
       <word id="29" form="καὶ" lemma="καί" postag="c--------" relation="COORD" head="1"/>
-      <word id="30" form=" δι᾽" lemma="διά" postag="r--------" relation="AuxP" head="36"/>
+      <word id="30" form="δι᾽" lemma="διά" postag="r--------" relation="AuxP" head="36"/>
       <word id="31" form="οἵων" lemma="οἷος" postag="a-p---mg-" relation="ATR" head="32"/>
       <word id="32" form="τρόπων" lemma="τρόπος" postag="n-p---mg-" relation="ADV_CO" head="34"/>
       <word id="33" form="τε" lemma="τε" postag="d--------" relation="AuxY" head="34"/>

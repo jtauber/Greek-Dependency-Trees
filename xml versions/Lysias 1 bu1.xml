@@ -21,7 +21,7 @@
    </annotator>
    <sentence id="1"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg001.perseus-grc1"
-             subdoc="1-50"
+             subdoc="1"
              span="">
       <word id="1" form="περὶ" lemma="περί" postag="r--------" relation="AuxP" head="4"/>
       <word id="2" form="πολλοῦ" lemma="πολύς" postag="a-s---mg-" relation="ADV" head="1"/>
@@ -61,7 +61,7 @@
    </sentence>
    <sentence id="2"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg001.perseus-grc1"
-             subdoc="1-50"
+             subdoc="1"
              span="">
       <word id="1" form="εὖ" lemma="εὖ" postag="d--------" relation="ADV" head="3"/>
       <word id="2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="3"/>
@@ -93,7 +93,7 @@
    </sentence>
    <sentence id="3"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg001.perseus-grc1"
-             subdoc="1-50"
+             subdoc="1"
              span="">
       <word id="1" form="ὅστις" lemma="ὅστις" postag="p-s---mn-" relation="SBJ" head="6"/>
       <word id="2" form="οὐκ" lemma="οὐ" postag="d--------" relation="AuxZ" head="6"/>
@@ -126,7 +126,7 @@
    </sentence>
    <sentence id="4"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg001.perseus-grc1"
-             subdoc="1-50"
+             subdoc="2"
              span="">
       <word id="1" form="καὶ" lemma="καί" postag="d-------_" relation="AuxY" head="5"/>
       <word id="2" form="ταῦτα" lemma="οὗτος" postag="p-p---nn-" relation="SBJ" head="5"/>
@@ -150,7 +150,7 @@
    </sentence>
    <sentence id="5"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg001.perseus-grc1"
-             subdoc="1-50"
+             subdoc="2"
              span="">
       <word id="1" form="περὶ" lemma="περί" postag="r--------" relation="AuxP" head="22"/>
       <word id="2" form="τούτου" lemma="οὗτος" postag="a-s---ng_" relation="ATR" head="6"/>
@@ -199,7 +199,7 @@
    </sentence>
    <sentence id="6"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg001.perseus-grc1"
-             subdoc="1-50"
+             subdoc="2"
              span="">
       <word id="1" form="οὕτως" lemma="οὕτως" postag="d--------" relation="ADV" head="12"/>
       <word id="2" form="," lemma="punc1" postag="u--------" relation="AuxX" head="4"/>
@@ -220,7 +220,7 @@
    </sentence>
    <sentence id="7"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg001.perseus-grc1"
-             subdoc="1-50"
+             subdoc="3"
              span="">
       <word id="1" form="περὶ" lemma="περί" postag="r--------" relation="AuxP" head="14"/>
       <word id="2" form="μὲν" lemma="μέν" postag="d--------" relation="AuxY" head="10"/>
@@ -277,7 +277,7 @@
    </sentence>
    <sentence id="8"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0540.tlg001.perseus-grc1"
-             subdoc="1-50"
+             subdoc="3"
              span="">
       <word id="1" form="ἡγοῦμαι" lemma="ἡγέομαι" postag="v1spim---" relation="PRED"
             head="0"/>
@@ -4426,4 +4426,3 @@
       <word id="25" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
 </treebank>
-

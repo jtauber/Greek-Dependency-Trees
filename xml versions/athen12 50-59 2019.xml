@@ -332,7 +332,7 @@
       <word id="20" form="Κλεομβρότου" lemma="Κλεόμβροτος" postag="n-s---mg-" relation="ATR" head="19"/>
       <word id="21" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
       <word id="22" form="ἀρχαίας" lemma="ἀρχαῖος" postag="a-s---fg-" relation="ATR" head="24"/>
-      <word id="23" form="Ἡρακλέος" lemma="̔Ηρακλέης" postag="n-s---mg-" relation="ATR" head="24"/>
+      <word id="23" form="Ἡρακλέος" lemma="Ἡρακλέης" postag="n-s---mg-" relation="ATR" head="24"/>
       <word id="24" form="γενεᾶς" lemma="γενεά" postag="n-s---fg-" relation="ATR" head="6"/>
       <word id="25" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>

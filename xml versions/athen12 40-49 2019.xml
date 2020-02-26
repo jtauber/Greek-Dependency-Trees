@@ -797,7 +797,7 @@
       <word id="1" form="καὶ" lemma="καί" postag="d--------" relation="AuxY" head="5"/>
       <word id="2" form="τριταῖος" lemma="τριταῖος" postag="a-s---mn-" relation="AtvV" head="5"/>
       <word id="3" form="εἰς" lemma="εἰς" postag="r--------" relation="AuxP" head="5"/>
-      <word id="4" form="Ὀνόκαρσιν" lemma="̓Ονόκαρσις" postag="n-s---ma-" relation="OBJ_AP" head="6"/>
+      <word id="4" form="Ὀνόκαρσιν" lemma="Ὀνόκαρσις" postag="n-s---ma-" relation="OBJ_AP" head="6"/>
       <word id="5" form="ἀφικνεῖται" lemma="ἀφικνέομαι" postag="v3spie---" relation="PRED" head="0"/>
       <word id="6" form="," lemma="punc1" postag="u--------" relation="APOS" head="3"/>
       <word id="7" form="χωρίον" lemma="χωρίον" postag="n-s---na-" relation="OBJ_AP" head="6"/>
@@ -1370,7 +1370,7 @@
       <word id="1" form="ὧν" lemma="ὅς" postag="p-p---mg-" relation="OBJ" head="2"/>
       <word id="2" form="ἡγεῖτο" lemma="ἡγέομαι" postag="v3siim---" relation="PRED" head="0"/>
       <word id="3" form="μὲν" lemma="μέν" postag="d--------" relation="AuxY" head="2"/>
-      <word id="4" form="Ἀδαῖος" lemma="̓Αδαῖος" postag="n-s---mn-" relation="SBJ" head="2"/>
+      <word id="4" form="Ἀδαῖος" lemma="Ἀδαῖος" postag="n-s---mn-" relation="SBJ" head="2"/>
       <word id="5" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" head="4"/>
       <word id="6" form="Ἀλεκτρυὼν" lemma="Ἀλεκτρυών" postag="n-s---mn-" relation="PNOM" head="7"/>
       <word id="7" form="ἐπικαλούμενος" lemma="ἐπικαλέω" postag="v-sppemn-" relation="ATR" head="4"/>
@@ -2436,7 +2436,7 @@
       <word id="2" form="δέ" lemma="δέ" postag="d--------" relation="AuxY" head="37"/>
       <word id="3" form="ποτε" lemma="ποτέ" postag="d--------" relation="ADV" head="1"/>
       <word id="4" form="ὡς" lemma="ὡς" postag="r--------" relation="AuxP" head="1"/>
-      <word id="5" form="Ἄνυτον" lemma="̓́Ανυτος" postag="n-s---ma-" relation="OBJ" head="4"/>
+      <word id="5" form="Ἄνυτον" lemma="Ἄνυτος" postag="n-s---ma-" relation="OBJ" head="4"/>
       <word id="6" form="ἐραστὴν" lemma="ἐραστής" postag="n-s---ma-" relation="PNOM_CO" head="8"/>
       <word id="7" form="ὄντα" lemma="εἰμί" postag="v-sppama-" relation="ATR" head="5"/>
       <word id="8" form="καὶ" lemma="καί" postag="c--------" relation="COORD" head="7"/>

@@ -1973,7 +1973,7 @@
    </sentence>
    <sentence id="76"
              document_id="http://perseids.org/annotsrc/urn:cts:greekLit:tlg0059.tlg002.perseus-grc1"
-             subdoc="21α"
+             subdoc="21a"
              span="">
       <word id="1" form="οὗτος" lemma="οὗτος" postag="p-s---mn-" relation="SBJ" head="19"/>
       <word id="2" form="ἐμός" lemma="ἐμός" postag="a-s---mn-" relation="ATR" head="4"/>

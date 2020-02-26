@@ -1026,7 +1026,7 @@
    </sentence>
    <sentence id="27"
              document_id="urn:cts:greekLit:tlg0014.tlg059.perseus-grc2"
-             subdoc="1-126"
+             subdoc="11"
              span="">
       <word id="1" form="ἢ" lemma="ἤ1" postag="d--------" relation="AuxY" head="9"/>
       <word id="2" form="ποίᾳ" lemma="ποῖος" postag="a-s---fd-" relation="ATR" head="6"/>

@@ -1319,7 +1319,7 @@
    </sentence>
    <sentence id="43"
              document_id="urn:cts:greekLit:tlg0007.tlg015.perseus-grc1:21.4"
-             subdoc="c"
+             subdoc="21.4"
              span="">
       <word id="1" form="ταῦτα" lemma="οὗτος" postag="p-p---na-" relation="OBJ" head="5"/>
       <word id="2" form="τοῦ" lemma="ὁ" postag="l-s---mg-" relation="ATR" head="3"/>

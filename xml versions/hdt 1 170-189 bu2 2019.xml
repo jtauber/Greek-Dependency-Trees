@@ -763,7 +763,7 @@
       <word id="33" form="ἀπωσθέντες" lemma="ἀπωθέω" postag="v-pappmn-" relation="ADV" head="34"/>
       <word id="34" form="ἀπίκοντο" lemma="ἀφικνέομαι" postag="v3paim---" relation="PRED_CO" head="32"/>
       <word id="35" form="τῆς" lemma="ὁ" postag="l-s---fg-" relation="ATR" head="36"/>
-      <word id="36" form="Ἀσίης" lemma="̓Ασία" postag="n-s---fg-" relation="ATR" head="40"/>
+      <word id="36" form="Ἀσίης" lemma="Ἀσία" postag="n-s---fg-" relation="ATR" head="40"/>
       <word id="37" form="ἐς" lemma="εἰς" postag="r--------" relation="AuxP" head="34"/>
       <word id="38" form="γῆν" lemma="Γαῖα" postag="n-s---fa-" relation="OBJ" head="37"/>
       <word id="39" form="τὴν" lemma="ὁ" postag="l-s---fa-" relation="ATR" head="38"/>

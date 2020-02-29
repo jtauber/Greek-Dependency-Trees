@@ -7538,7 +7538,7 @@
       <word id="6" form="τοὺς" lemma="ὁ" postag="l-p---ma-" relation="ATR" head="7"/>
       <word id="7" form="ὀνομαζομένους" lemma="ὀνομάζω" postag="v-pppema-" relation="OBJ"
             head="5"/>
-      <word id="8" form="Ἁλιεῖς" lemma="̔Αλιεύς" postag="n-p---ma-" relation="ATR" head="7"/>
+      <word id="8" form="Ἁλιεῖς" lemma="Ἁλιεύς" postag="n-p---ma-" relation="ATR" head="7"/>
       <word id="9" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
       <word id="10" form="ἀνέβησαν" lemma="ἀναβαίνω" postag="v3paia---" relation="PRED_CO"
             head="15"/>

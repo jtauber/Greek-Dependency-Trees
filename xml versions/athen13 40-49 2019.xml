@@ -2542,7 +2542,7 @@
              document_id="urn:cts:greekLit:tlg0008.tlg001.perseus-grc1"
              subdoc="13.45"
              span="Ἵππην0:.10">
-      <word id="1" form="Ἵππην" lemma="̔́Ιππη" postag="n-s---fa-" relation="SBJ" head="6"/>
+      <word id="1" form="Ἵππην" lemma="Ἵππη" postag="n-s---fa-" relation="SBJ" head="6"/>
       <word id="2" form="λέγουσι" lemma="λέγω3" postag="v3ppia---" relation="PRED" head="0"/>
       <word id="3" form="τὴν" lemma="ὁ" postag="l-s---fa-" relation="ATR" head="1"/>
       <word id="4" form="ἑταίραν" lemma="ἑταίρα" postag="n-s---fa-" relation="ATR" head="1"/>
@@ -2660,7 +2660,7 @@
       <word id="3" form="μοι" lemma="ἐγώ" postag="p-s---md-" relation="OBJ" head="1"/>
       <word id="4" form="πολύν" lemma="πολύς" postag="a-s---ma-" relation="ATR" head="9"/>
       <word id="5" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="6" form="Ἵππη" lemma="̔́Ιππη" postag="n-s---mv-" relation="ExD" head="1"/>
+      <word id="6" form="Ἵππη" lemma="Ἵππη" postag="n-s---mv-" relation="ExD" head="1"/>
       <word id="7" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
       <word id="8" form="πάνυ" lemma="πάνυ" postag="d--------" relation="ADV" head="4"/>
       <word id="9" form="χόρτον" lemma="χόρτος" postag="n-s---ma-" relation="OBJ" head="13"/>

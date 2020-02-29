@@ -287,7 +287,7 @@
       <word id="2" form="Χαιρώνδου" lemma="Χαιρώνδας" postag="n-s---mg-" relation="SBJ" head="3"/>
       <word id="3" form="ἄρχοντος" lemma="ἄρχω" postag="v-sppamg-" relation="ADV" head="1"/>
       <word id="4" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="5" form="ἐλαφηβολιῶνος" lemma="̓Ελαφηβολιῶνος" postag="n-s---mg-" relation="SBJ" head="7"/>
+      <word id="5" form="ἐλαφηβολιῶνος" lemma="Ἐλαφηβολιῶνος" postag="n-s---mg-" relation="SBJ" head="7"/>
       <word id="6" form="ἕκτῃ" lemma="ἕκτη" postag="n-s---fd-" relation="ADV" head="7"/>
       <word id="7" form="ἱσταμένου" lemma="ἵστημι" postag="v-sppemg-" relation="ADV" head="12"/>
       <word id="8" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>

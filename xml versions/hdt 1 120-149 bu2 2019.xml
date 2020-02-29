@@ -2204,7 +2204,7 @@
       <word id="26" form="ἄνω" lemma="ἄνω2" postag="r--------" relation="AuxP" head="29"/>
       <word id="27" form="Ἅλυος" lemma="Ἅλυς" postag="n-s---fg-" relation="ATR" head="28"/>
       <word id="28" form="ποταμοῦ" lemma="ποταμός" postag="n-s---mg-" relation="ATR" head="26"/>
-      <word id="29" form="Ἀσίης" lemma="̓Ασία" postag="n-s---fg-" relation="OBJ" head="24"/>
+      <word id="29" form="Ἀσίης" lemma="Ἀσία" postag="n-s---fg-" relation="OBJ" head="24"/>
       <word id="30" form="ἐπ᾽" lemma="ἐπί" postag="r--------" relation="AuxP" head="24"/>
       <word id="31" form="ἔτεα" lemma="ἔτος" postag="n-p---na-" relation="ADV" head="30"/>
       <word id="32" form="τριήκοντα" lemma="τριάκοντα" postag="a--------" relation="ATR_CO" head="33"/>
@@ -2268,7 +2268,7 @@
       <word id="16" form="ἀπὸ" lemma="ἀπό" postag="r--------" relation="AuxP" head="15"/>
       <word id="17" form="τούτου" lemma="οὗτος" postag="a-s---fg-" relation="ATR" head="19"/>
       <word id="18" form="τῆς" lemma="ὁ" postag="l-s---fg-" relation="ATR" head="19"/>
-      <word id="19" form="Ἀσίης" lemma="̓Ασία" postag="n-s---fg-" relation="ATR" head="16"/>
+      <word id="19" form="Ἀσίης" lemma="Ἀσία" postag="n-s---fg-" relation="ATR" head="16"/>
       <word id="20" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
    <sentence id="91"
@@ -2322,7 +2322,7 @@
       <word id="25" form="οὕτω" lemma="οὕτως" postag="d--------" relation="ADV" head="24"/>
       <word id="26" form="πάσης" lemma="πᾶς" postag="a-s---fg-" relation="ATR" head="28"/>
       <word id="27" form="τῆς" lemma="ὁ" postag="l-s---fg-" relation="ATR" head="28"/>
-      <word id="28" form="Ἀσίης" lemma="̓Ασία" postag="n-s---fg-" relation="OBJ" head="29"/>
+      <word id="28" form="Ἀσίης" lemma="Ἀσία" postag="n-s---fg-" relation="OBJ" head="29"/>
       <word id="29" form="ἦρξε" lemma="ἄρχω" postag="v3saia---" relation="PRED_CO" head="23"/>
       <word id="30" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
@@ -4306,7 +4306,7 @@
       <word id="25" form="ἠπείρῳ" lemma="ἤπειρος" postag="n-s---fd-" relation="ADV" head="23"/>
       <word id="26" form="ἵδρυται" lemma="ἱδρύω" postag="v3srie---" relation="ATR_CO" head="21"/>
       <word id="27" form="," lemma="punc1" postag="u--------" relation="APOS" head="26"/>
-      <word id="28" form="Ἐρυθραί" lemma="̓Ερυθραί" postag="n-p---fn-" relation="SBJ_AP" head="27"/>
+      <word id="28" form="Ἐρυθραί" lemma="Ἐρυθραί" postag="n-p---fn-" relation="SBJ_AP" head="27"/>
       <word id="29" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
       <word id="30" insertion_id="0029e" artificial="elliptic" relation="PRED" lemma="εἰμί" postag="v3ppia---" form="ἐισιν" head="0"/>
    </sentence>

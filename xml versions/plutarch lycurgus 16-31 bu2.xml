@@ -5988,7 +5988,7 @@
       <word id="22" form="πάντες" lemma="πᾶς" postag="a-p---mn-" relation="ATR" head="27"/>
       <word id="23" form="οἱ" lemma="ὁ" postag="l-p---mn-" relation="ATR" head="27"/>
       <word id="24" form="τὴν" lemma="ὁ" postag="l-s---fa-" relation="ATR" head="25"/>
-      <word id="25" form="Ἀσίαν" lemma="̓Ασία" postag="n-s---fa-" relation="OBJ" head="26"/>
+      <word id="25" form="Ἀσίαν" lemma="Ἀσία" postag="n-s---fa-" relation="OBJ" head="26"/>
       <word id="26" form="οἰκοῦντες" lemma="οἰκέω" postag="v-pppamn-" relation="ATR" head="27"/>
       <word id="27" form="Ἕλληνες" lemma="Ἕλλην" postag="n-p---mn-" relation="SBJ" head="61"/>
       <word id="28" form="," lemma="punc1" postag="u--------" relation="AuxX" head="20"/>

@@ -2449,7 +2449,7 @@
       <word id="12" form="Πάχυνον" lemma="Πάχυνος" postag="n-s---ma-" relation="OBJ" head="9"/>
       <word id="13" form="ὑπερῆραν" lemma="ὑπεραίρω" postag="v3paia---" relation="PRED_CO" head="10"/>
       <word id="14" form="εἰς" lemma="εἰς" postag="r--------" relation="AuxP" head="13"/>
-      <word id="15" form="Ἔκνομον" lemma="̓́Εκνομος" postag="n-s---ma-" relation="OBJ" head="14"/>
+      <word id="15" form="Ἔκνομον" lemma="Ἔκνομος" postag="n-s---ma-" relation="OBJ" head="14"/>
       <word id="16" form="διὰ" lemma="διά" postag="r--------" relation="AuxP" head="13"/>
       <word id="17" form="τὸ" lemma="ὁ" postag="l-s---na-" relation="ATR" head="25"/>
       <word id="18" form="καὶ" lemma="καί" postag="d--------" relation="AuxZ" head="21"/>

@@ -3183,7 +3183,7 @@
       <word id="12" form="πρὸς" lemma="πρός" postag="r--------" relation="AuxP" head="10"/>
       <word id="13" form="τῷ" lemma="ὁ" postag="l-s---md-" relation="ATR" head="15"/>
       <word id="14" form="καλαμίτῃ" lemma="καλαμίτης" postag="n-s---md-" relation="ATR" head="15"/>
-      <word id="15" form="ἥρῳ" lemma="̔́Ηρως" postag="n-s---md-" relation="ATR" head="12"/>
+      <word id="15" form="ἥρῳ" lemma="Ἥρως" postag="n-s---md-" relation="ATR" head="12"/>
       <word id="16" form="χρωμένη" lemma="χραύω" postag="v-sppefn-" relation="ADV" head="23"/>
       <word id="17" form="τὸν" lemma="ὁ" postag="l-s---ma-" relation="ATR" head="19"/>
       <word id="18" form="καλὸν" lemma="καλός" postag="a-s---ma-" relation="ATR" head="19"/>

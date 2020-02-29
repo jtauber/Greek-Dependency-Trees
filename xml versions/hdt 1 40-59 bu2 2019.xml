@@ -2665,7 +2665,7 @@
              document_id="urn:cts:greekLit:tlg0016.tlg001.perseus-grc1"
              subdoc="1.59"
              span="">
-      <word id="1" form="Ἱπποκράτεϊ" lemma="̔Ιπποκράτης" postag="n-s---md-" relation="OBJ" head="10"/>
+      <word id="1" form="Ἱπποκράτεϊ" lemma="Ἱπποκράτης" postag="n-s---md-" relation="OBJ" head="10"/>
       <word id="2" form="γὰρ" lemma="γάρ" postag="d--------" relation="AuxY" head="10"/>
       <word id="3" form="ἐόντι" lemma="εἰμί" postag="v-sppamd-" relation="ADV_CO" head="5"/>
       <word id="4" form="ἰδιώτῃ" lemma="ἰδιώτης" postag="n-s---md-" relation="ATR" head="1"/>
@@ -2718,7 +2718,7 @@
       <word id="8" form="τὸ" lemma="ὁ" postag="l-s---na-" relation="ATR" head="9"/>
       <word id="9" form="τέρας" lemma="τέρας" postag="n-s---na-" relation="OBJ" head="7"/>
       <word id="10" form="συνεβούλευε" lemma="συμβουλεύω" postag="v3siia---" relation="PRED" head="0"/>
-      <word id="11" form="Ἱπποκράτεϊ" lemma="̔Ιπποκράτης" postag="n-s---md-" relation="OBJ" head="10"/>
+      <word id="11" form="Ἱπποκράτεϊ" lemma="Ἱπποκράτης" postag="n-s---md-" relation="OBJ" head="10"/>
       <word id="12" form="πρῶτα" lemma="πρότερος" postag="a-p---na-" relation="ADV" head="16"/>
       <word id="13" form="μὲν" lemma="μέν" postag="d--------" relation="AuxY" head="23"/>
       <word id="14" form="γυναῖκα" lemma="γυνή" postag="n-s---fa-" relation="OBJ" head="16"/>

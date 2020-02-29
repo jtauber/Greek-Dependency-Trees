@@ -2263,7 +2263,7 @@
       <word id="5" form="Εὐξένου" lemma="Εὔξενος" postag="n-s---mg-" relation="ATR_CO" head="6"/>
       <word id="6" form="καὶ" lemma="καί" postag="c--------" relation="COORD" head="4"/>
       <word id="7" form="τῆς" lemma="ὁ" postag="l-s---fg-" relation="ATR" head="8"/>
-      <word id="8" form="Ἀριστοξένης" lemma="̓Αριστοξένη" postag="n-s---fg-" relation="ATR_CO" head="6"/>
+      <word id="8" form="Ἀριστοξένης" lemma="Ἀριστοξένη" postag="n-s---fg-" relation="ATR_CO" head="6"/>
       <word id="9" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
    <sentence id="93"
@@ -2441,7 +2441,7 @@
       <word id="1" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" head="4"/>
       <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="AuxY" head="7"/>
       <word id="3" form="μέγας" lemma="μέγας" postag="a-s---mn-" relation="ATR" head="4"/>
-      <word id="4" form="Ἀλέξανδρος" lemma="̓Αλέξανδρος" postag="n-s---mn-" relation="SBJ" head="7"/>
+      <word id="4" form="Ἀλέξανδρος" lemma="Ἀλέξανδρος" postag="n-s---mn-" relation="SBJ" head="7"/>
       <word id="5" form="οὐ" lemma="οὐ" postag="d--------" relation="AuxZ" head="7"/>
       <word id="6" form="Θαίδα" lemma="Θαίς" postag="n-s---fa-" relation="OBJ" head="7"/>
       <word id="7" form="εἶχε" lemma="ἔχω" postag="v3siia---" relation="PRED" head="0"/>
@@ -2703,7 +2703,7 @@
       <word id="9" form="περὶ" lemma="περί" postag="r--------" relation="AuxP" head="11"/>
       <word id="10" form="Ἀννίβαν" lemma="Ἀννίβας" postag="n-s---ma-" relation="ATR" head="9"/>
       <word id="11" form="Ἱστοριῶν" lemma="Ἱστορίη" postag="n-p---fg-" relation="ATR" head="7"/>
-      <word id="12" form="Ἱερώνυμὸν" lemma="̔Ιερώνυμος" postag="n-s---ma-" relation="SBJ" head="28"/>
+      <word id="12" form="Ἱερώνυμὸν" lemma="Ἱερώνυμος" postag="n-s---ma-" relation="SBJ" head="28"/>
       <word id="13" form="φησι" lemma="φημί" postag="v3spia---" relation="PRED" head="0"/>
       <word id="14" form="τὸν" lemma="ὁ" postag="l-s---ma-" relation="ATR" head="12"/>
       <word id="15" form="τυραννήσαντα" lemma="τυραννεύω" postag="v-sapama-" relation="ATR" head="12"/>

@@ -146,7 +146,7 @@
       <word id="10" form="τῶν" lemma="ὁ" postag="l-p---fg-" relation="ATR" head="14"/>
       <word id="11" form="ἐν" lemma="ἐν" postag="r--------" relation="AuxP" head="14"/>
       <word id="12" form="τῇ" lemma="ὁ" postag="l-s---fd-" relation="ATR" head="13"/>
-      <word id="13" form="Ἴδῃ" lemma="̓́Ιδη" postag="n-s---fd-" relation="ADV" head="11"/>
+      <word id="13" form="Ἴδῃ" lemma="Ἴδη" postag="n-s---fd-" relation="ADV" head="11"/>
       <word id="14" form="οἰκημενέων" lemma="οἰκέω" postag="v-prpefg-" relation="ATR" head="9"/>
       <word id="15" form=":" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
       <word id="16" insertion_id="0015e" artificial="elliptic" relation="PRED" lemma="εἰμί" postag="v3ppia---" form="εἰσί" head="0"/>
@@ -242,7 +242,7 @@
       <word id="4" form="πόλισι" lemma="πόλις" postag="n-p---fd-" relation="OBJ" head="5"/>
       <word id="5" form="ἕαδε" lemma="ἁνδάνω" postag="v3saia---" relation="PRED" head="0"/>
       <word id="6" form="κοινῇ" lemma="κοινῇ" postag="d--------" relation="ADV" head="8"/>
-      <word id="7" form="Ἴωσι" lemma="̓́Ιωνες" postag="n-p---md-" relation="OBJ" head="8"/>
+      <word id="7" form="Ἴωσι" lemma="Ἴωνες" postag="n-p---md-" relation="OBJ" head="8"/>
       <word id="8" form="ἕπεσθαι" lemma="ἕπομαι" postag="v--pne---" relation="SBJ" head="5"/>
       <word id="9" form="τῇ" lemma="ὅς" postag="p-s---fd-" relation="ADV" head="12"/>
       <word id="10" form="ἂν" lemma="ἄν1" postag="d--------" relation="AuxY" head="12"/>
@@ -331,7 +331,7 @@
       <word id="9" form="σφι" lemma="σφεῖς" postag="p-p---md-" relation="OBJ" head="8"/>
       <word id="10" form="μὴ" lemma="μή" postag="d--------" relation="AuxZ" head="11"/>
       <word id="11" form="τιμωρέειν" lemma="τιμωρέω" postag="v--pna---" relation="SBJ" head="8"/>
-      <word id="12" form="Ἴωσι" lemma="̓́Ιωνες" postag="n-p---md-" relation="OBJ" head="11"/>
+      <word id="12" form="Ἴωσι" lemma="Ἴωνες" postag="n-p---md-" relation="OBJ" head="11"/>
       <word id="13" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
    <sentence id="14"

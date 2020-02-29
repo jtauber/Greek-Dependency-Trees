@@ -3,6 +3,9 @@
 import re
 import unicodedata
 
+from postag import test_postag
+
+
 with open("gorman.txt") as f:
     c = 0
     for line in f:
@@ -35,3 +38,7 @@ with open("gorman.txt") as f:
             pass
         else:
             assert False, (c, author, work, subdoc, sentence_id, word_id, lemma, "<-- lemma problem")
+
+        if not test_postag(postag):
+            print(c, author, work, subdoc, sentence_id, word_id, postag)
+            quit()

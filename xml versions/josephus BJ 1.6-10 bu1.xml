@@ -3977,7 +3977,7 @@
       <word id="12" form="αὖθις" lemma="αὖθις" postag="d--------" relation="ADV" head="11"/>
       <word id="13" form="οἱ" lemma="ὁ" postag="l-p---mn-" relation="ATR" head="18"/>
       <word id="14" form="τὴν" lemma="ὁ" postag="l-s---fa-" relation="ATR" head="17"/>
-      <word id="15" form="Ὀνίου" lemma="̓Ονίας" postag="n-s---mg-" relation="OBJ" head="16"/>
+      <word id="15" form="Ὀνίου" lemma="Ὀνίας" postag="n-s---mg-" relation="OBJ" head="16"/>
       <word id="16" form="προσαγορευομένην" lemma="προσαγορεύω" postag="v-sppefa-" relation="ATR" head="17"/>
       <word id="17" form="χώραν" lemma="χώρα" postag="n-s---fa-" relation="OBJ" head="18"/>
       <word id="18" form="κατέχοντες" lemma="κατέχω" postag="v-pppamn-" relation="SBJ" head="11"/>

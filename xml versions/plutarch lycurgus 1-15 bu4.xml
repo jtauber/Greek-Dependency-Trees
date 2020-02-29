@@ -2126,7 +2126,7 @@
       <word id="1" form="Διὸς" lemma="Ζεύς" postag="n-s---mg-" relation="ATR_CO" head="3"/>
       <word id="2" form="Συλλανίου" postag="a-s---mg_" lemma="Συλλανίος" relation="ATR" head="1"/>
       <word id="3" form="καὶ" lemma="καί" postag="c--------" relation="COORD" head="6"/>
-      <word id="4" form="Ἀθανᾶς" lemma="̓Αθήνη" postag="n-s---fg-" relation="ATR_CO" head="3"/>
+      <word id="4" form="Ἀθανᾶς" lemma="Ἀθήνη" postag="n-s---fg-" relation="ATR_CO" head="3"/>
       <word id="5" form="Συλλανίας" postag="a-s---fg_" lemma="Συλλανία" relation="ATR" head="4"/>
       <word id="6" form="ἱερὸν" lemma="ἱερόν" postag="n-s---na-" relation="OBJ" head="7"/>
       <word id="7" form="ἱδρυσάμενον" lemma="ἱδρύω" postag="v-sapmma-" relation="ADV" head="37"/>
